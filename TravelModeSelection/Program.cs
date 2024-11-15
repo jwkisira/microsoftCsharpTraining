@@ -21,4 +21,8 @@ class Travels{
                 break;
         } 
     }
+
+    public static void Main(String[] args) {
+        SelectMode();
+    }
 }
