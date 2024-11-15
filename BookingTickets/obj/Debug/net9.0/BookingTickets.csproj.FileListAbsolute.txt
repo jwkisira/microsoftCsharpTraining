@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\bin\Debug\net9.0\BookingTickets.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\bin\Debug\net9.0\BookingTickets.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\bin\Debug\net9.0\BookingTickets.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\bin\Debug\net9.0\BookingTickets.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\bin\Debug\net9.0\BookingTickets.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\refint\BookingTickets.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\BookingTickets.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BookingTickets\obj\Debug\net9.0\ref\BookingTickets.dll
