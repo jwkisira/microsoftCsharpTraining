@@ -1,0 +1,5 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.sourcelink.json
