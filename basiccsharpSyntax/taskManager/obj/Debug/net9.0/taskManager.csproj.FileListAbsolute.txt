@@ -1,0 +1,4 @@
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\taskManager\obj\Debug\net9.0\taskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\taskManager\obj\Debug\net9.0\taskManager.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\taskManager\obj\Debug\net9.0\taskManager.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\taskManager\obj\Debug\net9.0\taskManager.csproj.CoreCompileInputs.cache

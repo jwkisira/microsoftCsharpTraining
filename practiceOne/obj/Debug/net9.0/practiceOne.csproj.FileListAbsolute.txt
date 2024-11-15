@@ -1,0 +1,17 @@
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\bin\Debug\net9.0\practiceOne.exe
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\bin\Debug\net9.0\practiceOne.deps.json
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\bin\Debug\net9.0\practiceOne.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\bin\Debug\net9.0\practiceOne.dll
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\bin\Debug\net9.0\practiceOne.pdb
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\bin\Debug\net9.0\Pastel.dll
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.csproj.AssemblyReference.cache
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practice.BBD0B567.Up2Date
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.dll
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\refint\practiceOne.dll
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.pdb
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\practiceOne.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\practiceOne\obj\Debug\net9.0\ref\practiceOne.dll

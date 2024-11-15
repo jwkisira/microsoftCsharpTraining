@@ -1,0 +1,14 @@
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\bin\Debug\net9.0\Greeting.exe
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\bin\Debug\net9.0\Greeting.deps.json
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\bin\Debug\net9.0\Greeting.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\bin\Debug\net9.0\Greeting.dll
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\bin\Debug\net9.0\Greeting.pdb
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\Greeting.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\Greeting.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\Greeting.dll
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\refint\Greeting.dll
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\Greeting.pdb
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\Greeting.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Greeting\obj\Debug\net9.0\ref\Greeting.dll

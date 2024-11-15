@@ -1,0 +1,14 @@
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\bin\Debug\net9.0\Loop.exe
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\bin\Debug\net9.0\Loop.deps.json
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\bin\Debug\net9.0\Loop.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\bin\Debug\net9.0\Loop.dll
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\bin\Debug\net9.0\Loop.pdb
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\Loop.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\Loop.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\Loop.dll
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\refint\Loop.dll
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\Loop.pdb
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\Loop.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\basiccsharpSyntax\Loop\obj\Debug\net9.0\ref\Loop.dll

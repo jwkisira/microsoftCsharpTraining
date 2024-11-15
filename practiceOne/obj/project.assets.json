@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Pastel/5.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Pastel.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pastel/5.2.1": {
+      "sha512": "4DpPqBGwJ3XuTY2b4KMzOhnBOHRHDGTfIsJl5Sx86749vQ0pus3EqQW6Kdki9ZOBjz+uugTo+bv6pjASE8T/4A==",
+      "type": "package",
+      "path": "pastel/5.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "icon.png",
+        "lib/net462/Pastel.dll",
+        "lib/net462/Pastel.xml",
+        "lib/net6.0/Pastel.dll",
+        "lib/net6.0/Pastel.xml",
+        "lib/net8.0/Pastel.dll",
+        "lib/net8.0/Pastel.xml",
+        "pastel.5.2.1.nupkg.sha512",
+        "pastel.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Pastel >= 5.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kisira\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kisira\\Documents\\dotNetPractice\\practiceOne\\practiceOne.csproj",
+      "projectName": "practiceOne",
+      "projectPath": "C:\\Users\\kisira\\Documents\\dotNetPractice\\practiceOne\\practiceOne.csproj",
+      "packagesPath": "C:\\Users\\kisira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kisira\\Documents\\dotNetPractice\\practiceOne\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kisira\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Pastel": {
+            "target": "Package",
+            "version": "[5.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

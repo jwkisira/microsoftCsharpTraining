@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTtv++/uASM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kisira\\Documents\\dotNetPractice\\practiceOne\\practiceOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kisira\\.nuget\\packages\\pastel\\5.2.1\\pastel.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
