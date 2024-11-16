@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\bin\Debug\net9.0\TaxCalculator.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\bin\Debug\net9.0\TaxCalculator.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\bin\Debug\net9.0\TaxCalculator.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\bin\Debug\net9.0\TaxCalculator.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\bin\Debug\net9.0\TaxCalculator.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\refint\TaxCalculator.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\TaxCalculator.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaxCalculator\obj\Debug\net9.0\ref\TaxCalculator.dll
