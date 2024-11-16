@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\bin\Debug\net9.0\PhonePlanSelector.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\bin\Debug\net9.0\PhonePlanSelector.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\bin\Debug\net9.0\PhonePlanSelector.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\bin\Debug\net9.0\PhonePlanSelector.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\bin\Debug\net9.0\PhonePlanSelector.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\refint\PhonePlanSelector.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\PhonePlanSelector.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector\obj\Debug\net9.0\ref\PhonePlanSelector.dll
