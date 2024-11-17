@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\bin\Debug\net9.0\WeatherForecast.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\bin\Debug\net9.0\WeatherForecast.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\bin\Debug\net9.0\WeatherForecast.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\bin\Debug\net9.0\WeatherForecast.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\bin\Debug\net9.0\WeatherForecast.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\refint\WeatherForecast.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\WeatherForecast.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\WeatherForecast\obj\Debug\net9.0\ref\WeatherForecast.dll
