@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\bin\Debug\net9.0\GymMembership.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\bin\Debug\net9.0\GymMembership.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\bin\Debug\net9.0\GymMembership.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\bin\Debug\net9.0\GymMembership.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\bin\Debug\net9.0\GymMembership.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\refint\GymMembership.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\GymMembership.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\GymMembership\obj\Debug\net9.0\ref\GymMembership.dll
