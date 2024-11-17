@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\bin\Debug\net9.0\EvenOrOdd.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\bin\Debug\net9.0\EvenOrOdd.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\bin\Debug\net9.0\EvenOrOdd.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\bin\Debug\net9.0\EvenOrOdd.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\bin\Debug\net9.0\EvenOrOdd.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\refint\EvenOrOdd.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\EvenOrOdd.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvenOrOdd\obj\Debug\net9.0\ref\EvenOrOdd.dll
