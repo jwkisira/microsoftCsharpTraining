@@ -10,8 +10,11 @@ public class BankAcctMgtSys {
         Console.WriteLine("Enter your account balance Here");
         AccountBalance = Convert.ToDouble(Console.ReadLine());
 
+        
         double interestRate = 0;
         double monthlyFee;
+        double interestRateCalc = (AccountBalance / interestRate);
+        double balanceAfterIR = AccountBalance + interestRateCalc;
 
         switch (accountType){
             case 1:
@@ -31,10 +34,9 @@ public class BankAcctMgtSys {
                 Console.WriteLine("Invalid Input");
                 break;
         }
-        double balanceAfterIR = AccountBalance + (AccountBalance / interestRate);
 
         if (accountType == 3){
-            Console.WriteLine("Your new account Balance: "+ balanceAfterIR+ " and your monthly fee is 20%");
+            Console.WriteLine("Your new account Balance: "+ balanceAfterIR);
         }
         else{
             if (accountType <= 4){
