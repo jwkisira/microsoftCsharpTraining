@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\bin\Debug\net9.0\PhonePlanSelector2.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\bin\Debug\net9.0\PhonePlanSelector2.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\bin\Debug\net9.0\PhonePlanSelector2.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\bin\Debug\net9.0\PhonePlanSelector2.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\bin\Debug\net9.0\PhonePlanSelector2.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\refint\PhonePlanSelector2.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\PhonePlanSelector2.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PhonePlanSelector2\obj\Debug\net9.0\ref\PhonePlanSelector2.dll
