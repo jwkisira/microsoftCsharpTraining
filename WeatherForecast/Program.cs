@@ -15,7 +15,7 @@
                 Console.WriteLine("The weather is "+ weatherForecasts[2]+ " please carry a sweater");
                 break;
             default:
-            
+                Console.WriteLine("Invalid input");
                 break;
         }
         }
