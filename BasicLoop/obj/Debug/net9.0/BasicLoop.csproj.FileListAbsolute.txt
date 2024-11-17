@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\bin\Debug\net9.0\BasicLoop.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\bin\Debug\net9.0\BasicLoop.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\bin\Debug\net9.0\BasicLoop.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\bin\Debug\net9.0\BasicLoop.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\bin\Debug\net9.0\BasicLoop.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\refint\BasicLoop.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\BasicLoop.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\BasicLoop\obj\Debug\net9.0\ref\BasicLoop.dll
