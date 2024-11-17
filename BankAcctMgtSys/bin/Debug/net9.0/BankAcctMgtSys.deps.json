@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BankAcctMgtSys/1.0.0": {
+        "runtime": {
+          "BankAcctMgtSys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankAcctMgtSys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
