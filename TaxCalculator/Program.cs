@@ -9,7 +9,7 @@ public class TaxCalculator {
     public static void calculateTax(){
         int income;
         int tax;
-        Boolean isResident = true;
+        Boolean isResident = false;
         
 
         Console.WriteLine("Enter your monthly income:");

@@ -12,6 +12,7 @@ public class GymMembership {
         Console.WriteLine("Do you want premium membership(Yes/no)?");
         choice = Console.ReadLine();
         bool isPremium = choice.ToLower() == "yes";
+        bool isBasic = choice.ToLower() == "no";
 
         double Price;
         string Plan;
@@ -23,7 +24,7 @@ public class GymMembership {
                 Plan = "Basic";
                 Console.WriteLine("Basic Plan price is "+ Price);
             }
-            else{
+            else if (isBasic){
                 Price = 25;
                 Plan = "Premium";
                 Console.WriteLine("Premium Plan Price is " + Price);
@@ -35,7 +36,7 @@ public class GymMembership {
                 Plan = "Basic";
                 Console.WriteLine("Basic Plan price is "+ Price);
             }
-            else{
+            else if (isBasic){
                 Price = 50;
                 Plan = "Premium";
                 Console.WriteLine("Premium Plan Price is " + Price);
@@ -47,7 +48,7 @@ public class GymMembership {
                 Plan = "Basic";
                 Console.WriteLine("Basic Plan price is "+ Price);
             }
-            else{
+            else if (isBasic){
                 Price = 35;
                 Plan = "Premium";
                 Console.WriteLine("Premium Plan Price is " + Price);

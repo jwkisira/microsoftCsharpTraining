@@ -3,3 +3,13 @@ C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelec
 C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.AssemblyInfo.cs
 C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.csproj.CoreCompileInputs.cache
 C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\bin\Debug\net9.0\TravelModeSelection.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\bin\Debug\net9.0\TravelModeSelection.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\bin\Debug\net9.0\TravelModeSelection.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\bin\Debug\net9.0\TravelModeSelection.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\bin\Debug\net9.0\TravelModeSelection.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\refint\TravelModeSelection.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\TravelModeSelection.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TravelModeSelection\obj\Debug\net9.0\ref\TravelModeSelection.dll

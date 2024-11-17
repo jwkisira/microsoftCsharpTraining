@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhonePlanSelector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e439dfc87812b6114e9c03118b5a72bf996aa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47d90294ac166b9fd552f7ddde9c9a8c6ee42765")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhonePlanSelector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhonePlanSelector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
