@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\bin\Debug\net9.0\OrderProcessing.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\bin\Debug\net9.0\OrderProcessing.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\bin\Debug\net9.0\OrderProcessing.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\bin\Debug\net9.0\OrderProcessing.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\bin\Debug\net9.0\OrderProcessing.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\refint\OrderProcessing.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\OrderProcessing.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\OrderProcessing\obj\Debug\net9.0\ref\OrderProcessing.dll
