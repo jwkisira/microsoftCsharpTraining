@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\bin\Debug\net9.0\evalStudentGrades2.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\bin\Debug\net9.0\evalStudentGrades2.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\bin\Debug\net9.0\evalStudentGrades2.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\bin\Debug\net9.0\evalStudentGrades2.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\bin\Debug\net9.0\evalStudentGrades2.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\refint\evalStudentGrades2.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\evalStudentGrades2.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\evalStudentGrades2\obj\Debug\net9.0\ref\evalStudentGrades2.dll
