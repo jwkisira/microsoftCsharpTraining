@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvalInput")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+828160c89e643b9ecd44cf9a3bda143c6de46e85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a365f358dd79d62ebc154a0029a2425f275921d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvalInput")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvalInput")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
