@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\bin\Debug\net9.0\PassOrFail.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\bin\Debug\net9.0\PassOrFail.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\bin\Debug\net9.0\PassOrFail.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\bin\Debug\net9.0\PassOrFail.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\bin\Debug\net9.0\PassOrFail.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\refint\PassOrFail.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\PassOrFail.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\PassOrFail\obj\Debug\net9.0\ref\PassOrFail.dll
