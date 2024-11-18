@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PassOrFail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9cc53ef133402181a0a68a4b1137460af436a6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ed7601d690713ba6f6155654d0c71c17711d7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PassOrFail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PassOrFail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
