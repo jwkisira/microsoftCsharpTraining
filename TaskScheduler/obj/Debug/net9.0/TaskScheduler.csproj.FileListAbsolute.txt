@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\bin\Debug\net9.0\TaskScheduler.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\bin\Debug\net9.0\TaskScheduler.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\bin\Debug\net9.0\TaskScheduler.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\bin\Debug\net9.0\TaskScheduler.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\bin\Debug\net9.0\TaskScheduler.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\refint\TaskScheduler.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\TaskScheduler.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TaskScheduler\obj\Debug\net9.0\ref\TaskScheduler.dll
