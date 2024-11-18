@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\bin\Debug\net9.0\EvalInput.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\bin\Debug\net9.0\EvalInput.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\bin\Debug\net9.0\EvalInput.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\bin\Debug\net9.0\EvalInput.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\bin\Debug\net9.0\EvalInput.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\refint\EvalInput.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\EvalInput.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalInput\obj\Debug\net9.0\ref\EvalInput.dll
