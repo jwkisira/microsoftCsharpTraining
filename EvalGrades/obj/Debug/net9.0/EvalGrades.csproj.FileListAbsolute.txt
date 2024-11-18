@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\bin\Debug\net9.0\EvalGrades.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\bin\Debug\net9.0\EvalGrades.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\bin\Debug\net9.0\EvalGrades.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\bin\Debug\net9.0\EvalGrades.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\bin\Debug\net9.0\EvalGrades.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\refint\EvalGrades.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\EvalGrades.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\EvalGrades\obj\Debug\net9.0\ref\EvalGrades.dll
