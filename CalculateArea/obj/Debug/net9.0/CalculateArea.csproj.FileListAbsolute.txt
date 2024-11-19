@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\bin\Debug\net9.0\CalculateArea.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\bin\Debug\net9.0\CalculateArea.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\bin\Debug\net9.0\CalculateArea.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\bin\Debug\net9.0\CalculateArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\bin\Debug\net9.0\CalculateArea.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\refint\CalculateArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\CalculateArea.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CalculateArea\obj\Debug\net9.0\ref\CalculateArea.dll
