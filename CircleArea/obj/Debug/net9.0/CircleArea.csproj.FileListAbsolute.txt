@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\bin\Debug\net9.0\CircleArea.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\bin\Debug\net9.0\CircleArea.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\bin\Debug\net9.0\CircleArea.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\bin\Debug\net9.0\CircleArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\bin\Debug\net9.0\CircleArea.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\refint\CircleArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\CircleArea.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\CircleArea\obj\Debug\net9.0\ref\CircleArea.dll
