@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Formats.Asn1;
 
 public class Program{
-    // function to handle calculations
+    // function to handle area of rectangle
     public static void calculateArea(int length, int width){
         Console.WriteLine("length: ");
         length = int.Parse(Console.ReadLine());
@@ -18,7 +18,37 @@ public class Program{
         // return;
     }
 
+    // function to handle area of triangle
+    public static void calculateTriangleArea(double l, double b, double h){
+        Console.WriteLine("length:");
+        double length = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("base:");
+        double base1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("height:");
+        double height = Convert.ToDouble(Console.ReadLine());
+
+        double triangleArea = length * base1 * height; 
+
+        Console.WriteLine("Area of triangle = "+triangleArea);
+    }
+
+    
     public static void Main(string[] args){
-        calculateArea(10, 5);
+        Console.WriteLine("Area of :\n 1.Triangle \n 2. Rectangle ");
+        int choice = int.Parse(Console.ReadLine());
+
+        switch(choice){
+            case 1:
+                calculateTriangleArea(1, 2, 3);
+                break;
+            case 2:
+                calculateArea(1, 2);
+                break;
+            default:
+                Console.WriteLine("invalid input");
+                break;
+        }
     }
 }
