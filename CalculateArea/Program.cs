@@ -19,17 +19,14 @@ public class Program{
     }
 
     // function to handle area of triangle
-    public static void calculateTriangleArea(double l, double b, double h){
-        Console.WriteLine("length:");
-        double length = Convert.ToDouble(Console.ReadLine());
-
+    public static void calculateTriangleArea(double b, double h){
         Console.WriteLine("base:");
         double base1 = Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("height:");
         double height = Convert.ToDouble(Console.ReadLine());
 
-        double triangleArea = length * base1 * height; 
+        double triangleArea = 0.5 * base1 * height; 
 
         Console.WriteLine("Area of triangle = "+triangleArea);
     }
@@ -41,7 +38,7 @@ public class Program{
 
         switch(choice){
             case 1:
-                calculateTriangleArea(1, 2, 3);
+                calculateTriangleArea(2, 3);
                 break;
             case 2:
                 calculateArea(1, 2);
