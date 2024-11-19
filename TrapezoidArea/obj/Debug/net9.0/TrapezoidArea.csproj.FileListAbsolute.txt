@@ -1,0 +1,15 @@
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\bin\Debug\net9.0\TrapezoidArea.exe
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\bin\Debug\net9.0\TrapezoidArea.deps.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\bin\Debug\net9.0\TrapezoidArea.runtimeconfig.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\bin\Debug\net9.0\TrapezoidArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\bin\Debug\net9.0\TrapezoidArea.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.AssemblyInfoInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.AssemblyInfo.cs
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.csproj.CoreCompileInputs.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.sourcelink.json
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\refint\TrapezoidArea.dll
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.pdb
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\TrapezoidArea.genruntimeconfig.cache
+C:\Users\kisira\Documents\dotNetPractice\microsoftCsharpTraining\TrapezoidArea\obj\Debug\net9.0\ref\TrapezoidArea.dll
