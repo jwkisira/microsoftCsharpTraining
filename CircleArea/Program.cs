@@ -5,9 +5,7 @@ using System.Net.NetworkInformation;
 
 public class Program{
     public static double circleArea(double radius){
-        double pi = Math.PI;
-        radius = Convert.ToDouble(Console.ReadLine());
-        return pi * radius * radius;
+        return Math.PI * (radius * radius);
     }
 
     public static void Main(){
